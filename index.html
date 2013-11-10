@@ -13,25 +13,6 @@ title: Fullness of Christ &mdash; Kansas City, Missouri
         </div>
     </div>
     <div class="row">
-        <div class="col col-sm-12">
-            <h2>
-                Latest Post
-                <a class="btn btn-default btn-sm pull-right" href="/posts.html">View all posts &raquo;</a>
-            </h2>
-            <ul class="posts">
-                {% assign post = site.posts.first %}
-                <li>
-                    <h3> <a href="{{ post.url }}">{{ post.title }}</a></h3>
-                    <p><span class="text-muted">{{ post.date | date_to_string }}</span></p>
-                    <p>
-                        {{ post.excerpt }}
-                        <a href="{{ post.url }}">Read more &raquo;</a>
-                    </p>
-                </li>
-            </ul>
-        </div>
-    </div>
-    <div class="row">
         <div class="col col-sm-6">
             <h2>Sermons <a class="btn btn-default btn-sm pull-right" href="/sermons.html">View all &raquo;</a></h2>
             <table class="table table-striped">
@@ -90,6 +71,25 @@ title: Fullness of Christ &mdash; Kansas City, Missouri
                     </td>
                 </tr>
             </table>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col col-sm-12">
+            <h2>
+                Latest Post
+                <a class="btn btn-default btn-sm pull-right" href="/posts.html">View all posts &raquo;</a>
+            </h2>
+            <ul class="posts">
+                {% assign post = site.posts.first %}
+                <li>
+                    <h3> <a href="{{ post.url }}">{{ post.title }}</a></h3>
+                    <p><span class="text-muted">{{ post.date | date_to_string }}</span></p>
+                    <p>
+                        {{ post.excerpt }}
+                        <a href="{{ post.url }}">Read more &raquo;</a>
+                    </p>
+                </li>
+            </ul>
         </div>
     </div>
 </div>
