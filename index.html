@@ -16,7 +16,7 @@ title: Fullness of Christ
         <div class="col col-sm-12">
             <h2>
                 Latest Post
-                <a class="btn btn-primary btn-sm pull-right" href="#">View all posts &raquo;</a>
+                <a class="btn btn-default btn-sm pull-right" href="#">View all posts &raquo;</a>
             </h2>
             <ul class="posts">
                 {% assign post = site.posts.first %}
@@ -25,7 +25,7 @@ title: Fullness of Christ
                     <p><span class="text-muted">{{ post.date | date_to_string }}</span></p>
                     <p>
                         {{ post.excerpt }}
-                        <a class="btn btn-default btn-sm" href="{{ post.url }}">Read more &raquo;</a>
+                        <a href="{{ post.url }}">Read more &raquo;</a>
                     </p>
                 </li>
             </ul>
@@ -33,12 +33,8 @@ title: Fullness of Christ
     </div>
     <div class="row">
         <div class="col col-sm-6">
-            <h2>Sermons <a class="btn btn-primary btn-sm pull-right" href="#">View all &raquo;</a></h2>
+            <h2>Sermons <a class="btn btn-default btn-sm pull-right" href="#">View all &raquo;</a></h2>
             <table class="table table-striped">
-                <tr>
-                    <th>Title</th>
-                    <th>Speaker</th>
-                </tr>
                 <tr>
                     <td>
                         <a href="/content/sermons/zac_poonen-new_wine_in_new_wine_skins.mp3">New Wine in New Wineskins</a>
@@ -67,7 +63,33 @@ title: Fullness of Christ
             </table>
         </div>
         <div class="col col-sm-6">
-            <h2>Music <a class="btn btn-primary btn-sm pull-right" href="#">View all &raquo;</a></h2>
+            <h2>Music <a class="btn btn-default btn-sm pull-right" href="#">View all &raquo;</a></h2>
+            <table class="table table-striped">
+                <tr>
+                    <td>
+                        <a href="/content/music/max_spransy-all_for_jesus.mp3">All for Jesus</a>
+                    </td>
+                    <td>
+                        Max Spransy
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="/content/music/mark_gagliardi-my_jesus_i_love_thee.mp3">My Jesus, I Love Thee</a>
+                    </td>
+                    <td>
+                        Mark Gagliardi
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="/content/music/max_spransy-how_deep_the_fathers_love_for_us.mp3">How Deep the Father's Love for Us</a>
+                    </td>
+                    <td>
+                        Max Spransy
+                    </td>
+                </tr>
+            </table>
         </div>
     </div>
 </div>
