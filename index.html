@@ -2,20 +2,72 @@
 layout: default
 title: Fullness of Christ
 ---
-
 <div class="container">
-    <div class='embed-container'><iframe src='http://www.youtube.com/embed/nPIOkdNL-QQ?showinfo=0&rel=0' frameborder='0' allowfullscreen></iframe></div>
-    <h2>
-        Latest Post
-        <a class="btn btn-primary pull-right" href="#">View all posts &raquo;</a>
-    </h2>
-    <ul class="posts">
-        {% assign post = site.posts.first %}
-        <li>
-            <h3> <a href="{{ post.url }}">{{ post.title }}</a></h3>
-            <p><span class="text-muted">{{ post.date | date_to_string }}</span></p>
-            <p>{{ post.excerpt }}</p>
-            <p><a class="btn btn-default btn-sm" href="{{ post.url }}">Read more &raquo;</a></p>
-        </li>
-    </ul>
+    <div class="row">
+        <div class="col col-sm-6">
+            <div class='embed-container'><iframe src='http://www.youtube.com/embed/nPIOkdNL-QQ?showinfo=0&rel=0' frameborder='0' allowfullscreen></iframe></div>
+        </div>
+        <div class="col col-sm-6">
+            <h3>Get udpates by email</h3>
+            <p>To automatically receive weekly emails of the content on this site, enter your email address here:</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col col-sm-12">
+            <h2>
+                Latest Post
+                <a class="btn btn-primary btn-sm pull-right" href="#">View all posts &raquo;</a>
+            </h2>
+            <ul class="posts">
+                {% assign post = site.posts.first %}
+                <li>
+                    <h3> <a href="{{ post.url }}">{{ post.title }}</a></h3>
+                    <p><span class="text-muted">{{ post.date | date_to_string }}</span></p>
+                    <p>
+                        {{ post.excerpt }}
+                        <a class="btn btn-default btn-sm" href="{{ post.url }}">Read more &raquo;</a>
+                    </p>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col col-sm-6">
+            <h2>Sermons <a class="btn btn-primary btn-sm pull-right" href="#">View all &raquo;</a></h2>
+            <table class="table table-striped">
+                <tr>
+                    <th>Title</th>
+                    <th>Speaker</th>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="/content/sermons/zac_poonen-new_wine_in_new_wine_skins.mp3">New Wine in New Wineskins</a>
+                        <small>[<a href="http://youtu.be/Rjl_THytvuQ">video</a>]</small>
+                    </td>
+                    <td>
+                        Zac Poonen
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="/content/sermons/paris_reidhead-ten_shekels_and_a_shirt.mp3">Ten Shekels and a Shirt</a>
+                    </td>
+                    <td>
+                        Paris Reidhead
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="/content/sermons/zac_poonen-john_part_1.mp3">Through the Bible - John - Part 1</a>
+                    </td>
+                    <td>
+                        Zac Poonen
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="col col-sm-6">
+            <h2>Music <a class="btn btn-primary btn-sm pull-right" href="#">View all &raquo;</a></h2>
+        </div>
+    </div>
 </div>
