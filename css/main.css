@@ -13,6 +13,10 @@ h1 a {
     font-size: 1.0em;
 }
 
+h3 {
+    margin-top: 0;
+}
+
 .description {
     font-size: 1.2em;
     margin-bottom: 20px;
