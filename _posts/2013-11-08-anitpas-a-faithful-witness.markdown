@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Antipas, A Faithful Witness"
+title:  "Antipas, A Faithful Witness &mdash; CFC Word for the Week"
 date:   2013-11-08 14:00:00
 ---
 In Rev 2:12-17 we read,
@@ -9,7 +9,7 @@ In Rev 2:12-17 we read,
 
 Pergamum was a city, which was so evil that the Lord says that Satan had his earthly headquarters there. This is mentioned twice in Rev. 2:13. And right in the midst of that city the Lord had placed His church.
 
-The Lord tells them, “I know where you dwell”. He knows exactly where we are living and in what circumstances we are living. And He can keep us pure and triumphant, even if Satan has his earthly throne right where we live. With the sword of the Spirit, we too can overcome.
+The Lord tells them, *“I know where you dwell”*. He knows exactly where we are living and in what circumstances we are living. And He can keep us pure and triumphant, even if Satan has his earthly throne right where we live. With the sword of the Spirit, we too can overcome.
 
 No lampstand ever complains that the surroundings are too dark for it to shine in. The brightness of a lampstand has nothing to do with its surroundings. Its light depends solely on the amount of oil it contains.
 
@@ -29,4 +29,4 @@ Today, God is testing us through little trials. It is only if we are faithful in
 
 The sad thing was that the church at Pergamum lost out spiritually, after Antipas died. Antipas was probably the messenger of the church when he was alive. When he died, someone else took over and the church went downhill. This is the sad history of many churches.
 
-&mdash; Zac Poonen
+&mdash; Zac Poonen, <a href="http://www.cfcindia.com/">CFC India</a>
