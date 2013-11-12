@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Jesus Christ Within Us, the Hope of Glory"
-date:   2013-11-10 14:00:00
+title: "Jesus Christ Within Us, the Hope of Glory"
+date: 2013-11-10 14:00:00
 ---
 Jesus taught that God's greatest commandment is to love him with all of our hearts, all of our souls, and all of our minds (Matt. 22:37). The Bible says that, "Eye has not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him." (1 Cor. 2:9)
 
