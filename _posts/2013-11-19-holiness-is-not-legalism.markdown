@@ -1,0 +1,40 @@
+---
+layout: post
+title: '"Holiness is Not Legalism" by John Wesley'
+date: 2013-11-19 13:15:00
+---
+"Without holiness no man shall see the Lord." Nothing under heaven can be more sure than this; "for the mouth of the Lord hath spoken it." And "though heaven and earth pass away, yet His word shall not pass away." As well therefore might God fall from heaven, as His Word fall to the ground. (Heb. 12:14; Mic. 4:4; Matt. 5:18).
+
+No one who is not saved from sin here can be saved from hell hereafter. No one can see the kingdom of God above, unless the kingdom of God be in him below. Whoever will reign with Christ in heaven, must have Christ reigning in him on earth. And yet as sure as this is, and as clearly as it is taught in every part of the Holy Scripture, among all the truths of God, there is probably none which is less received by men.
+
+Yes, professing Christians invariably invent one way or another to get to heaven without holiness. In the place of holiness, some have substituted penance, pilgrimages, and praying to saints and angels. Thousand of professing Christians have no doubt but that, by a diligent use of these things—without any holiness at all—they shall see the Lord in glory.
+
+However, Protestants will not be satisfied in that manner. They are convinced that whoever leans on such things leans on the staff of a broken reed. Yet, thousands of such Protestants also think that they too will see God without holiness. How? Why, by doing no harm, generally doing good, going to church, and receiving the sacraments. And many thousands are content with this, believing they are on the high road to heaven. Yet, that is not much better than the hopes of the first group.
+
+However, other Protestants recognize that such nominal Christianity is not sufficient. They correctly say that such a religion does not stand on the right foundation. However, they go on to say that Christ has already accomplished and suffered everything for us. They say that His righteousness is imputed to us; therefore, we need none of our own. Since there is so much righteousness and holiness in Him, there needs to be none in us. In fact, they claim, that to think we have any holiness, or to desire to seek any holiness, is to renounce Christ. That from the beginning to the end of salvation, all is in Christ, nothing is in man. And that those who teach otherwise are preachers of legalism, and know nothing of the gospel.
+
+What evasion! What has Satan done? He has persuaded the very men who receive it to "turn the grace of God into licentiousness" (Jude 4). This is indeed a blow at the root, the root of all holiness, all true religion. The whole design of Christ's death was "to destroy the works of the devil" (I John 3:8). But now this is overthrown in one stroke.
+
+#### THE FRUITS OF CHEAP GRACE
+
+For wherever this doctrine of easy grace is received, it leaves no place for holiness. It forbids all such exhortations as might excite a desire for holiness. Nay, it makes men afraid of personal holiness, afraid of cherishing any thought of it. For they fear that any step toward holiness might be a denial of the faith, and a rejection of Christ and His righteousness. So that, instead of being "zealous for good works," good works are a stench to their nostrils. In short, they are infinitely more afraid of the works of God, that the works of the devil.
+
+Here is Satan's masterpiece! We are to believe that men are holy, without a grain of holiness in them! Holy in Christ, however unholy in themselves. They are supposedly in Christ, although they have not one jot of the mind that was in Christ. They are "complete in Him," although they are as proud, as vain, as covetous, and as lustful as ever. They think they can continue in unrighteousness because Christ has "fulfilled all righteousness."
+
+O ye simple one, do not be deceived. For as surely as the Lord lives, "neither fornicators, nor idolaters, nor adulterers, nor homosexuals, nor sodomites, nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God." "Such" indeed "were some of you. But you are washed, but you are sanctified," as well as "justified, in the name of the Lord Jesus, and by the Spirit of our God" (1 Cor. 6:9-11). You are really changed! You are not only accounted as righteous, you are made righteous.
+
+The inward power of the Spirit has made you free—really, actually free—from the law or power "of sin and death" (Rom. 8:2). This is liberty, true gospel liberty, experienced by every true believer. This is not freedom from the law of God, or the works of God, but from the law of sin and the works of the devil. See that you stand fast in this real, not imaginary, liberty. Take heed that you "be not entangled again," by means of these vain boasters, "in the yoke of" that vile "bondage of sin," from which you have cleanly escaped. (Gal. 5:1).
+
+I testify unto you, that if you still continue in sin, Christ shall profit you nothing. That Christ is no Savior to you, unless He saves you from your sins. And that unless it purifies your heart, faith shall profit you nothing. Oh, when will you understand, that to oppose either inward or outward holiness, under color of exalting Christ, is directly to act the part of Judas, to "betray the Son of man with a kiss?"
+
+What? Make Christ destroy His own kingdom? Set Christ against holiness? Talk of Christ as saving His people in their sins? It is no better than to say, He saves them from the guilt, but not from the power, of sin. Will you make the righteousness of Christ a cover for the unrighteousness of man? So that by this means, "the unrighteous" of every kind "shall inherit the kingdom of God!" Stop! Consider! What are you doing? Who has corrupted you from the simplicity of Christ, from the purity of the gospel?
+
+You did know, "He that believeth is born of God: And whosoever is born of God sinneth not" (1 John 3:9). O come back to the true, the pure, the old gospel! That which you received in the beginning. Come back to Christ, who died to make you a holy people, "zealous for good works" (Tit. 2:14). "Remember from whence you are fallen, and repent, and do the first works" (Rev. 2:5). For "wilt thou know, O vain," O empty "man, that faith without works is dead" (Jas. 2:17)?
+
+Do not stupidly and senselessly call holiness legalism—a silly, meaningless word. Be not afraid of being under the law of God. Rather, fear being under "the law of sin" (Rom. 7:23). Love the strictest preaching best. That which most searches the heart, and shows you wherein you are unlike Christ. That which presses you most to love Him with all your heart, and serve Him with all your strength.
+
+Permit me to warn you of another silly, meaningless phrase: Do not say: "I can do nothing." If so, then you know nothing of Christ. Then you have no faith. For if you have faith, if you believe, then you "can do all things through Christ who strengthens you" (Phil. 4:13). You can love Him and keep His commandments; and to you His "commandments are not grievous" (1 John 5:3). Grievous to them that believe? Far from it! They are the joy of your heart.
+
+Show then your love for Christ by keeping His commandments, by blamelessly walking in all His ordinances. Honor Christ by obeying Him with all your might, by serving Him with all your strength. Glorify Christ by imitating Christ in all things, by walking as He walked. Trust in Christ to live and reign in your heart. Have confidence in Christ that He will fulfill in you all his great and precious promises. That He will work in you all the good pleasure of His goodness, and all the work of faith with power. Cleave to Christ, until His blood has cleansed you from all pride, all anger, all evil desire. Let Christ do all. Let Him who has done all for you, do all in you.
+
+Exalt Christ as a Prince to give repentance. A Savior both to give remission of sins, and to create in you a new heart, to renew a right spirit within you. This is the gospel, the pure, genuine gospel; glad tidings of great salvation. Not the new, but the old—the everlasting gospel.
